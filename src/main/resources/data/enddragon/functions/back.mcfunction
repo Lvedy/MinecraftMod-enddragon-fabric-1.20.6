@@ -1,0 +1,1 @@
+execute in minecraft:overworld run tp 0 80 0
