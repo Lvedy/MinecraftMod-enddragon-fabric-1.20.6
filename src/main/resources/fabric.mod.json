@@ -17,9 +17,6 @@
 	"entrypoints": {
 		"main": [
 			"com.example.EndDragonMOD"
-		],
-		"fabric-datagen": [
-			"com.example.EndDragonMODDataGenerator"
 		]
 	},
 	"mixins": [
